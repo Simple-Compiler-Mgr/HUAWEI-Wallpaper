@@ -2,7 +2,6 @@
 
 一款基于华为 HarmonyOS NEXT 和 ArkTS 语言开发的壁纸应用。它以简洁优雅的界面，每日为您呈现来自 Bing 的精美壁纸，并提供丰富的浏览和管理功能。
 
-![App Screenshot Placeholder](https://via.placeholder.com/800x450.png?text=在此处插入您的应用截图)
 
 ---
 
@@ -22,16 +21,6 @@
   - 采用 ArkUI 声明式 UI 框架，界面美观现代。
   - 包含流畅的加载动画和响应式布局。
   - 自定义SVG图标，保证视觉效果的一致性。
-
----
-
-## 📸 应用截图
-
-*您可以在这里替换为您的应用实际运行截图。*
-
-| 主界面 (网格视图) | 主界面 (列表视图) | 详情页 |
-| :---: | :---: | :---: |
-| ![Grid View](https://via.placeholder.com/250x500.png?text=主界面-网格视图) | ![List View](https://via.placeholder.com/250x500.png?text=主界面-列表视图) | ![Detail View](https://via.placeholder.com/250x500.png?text=详情页) |
 
 ---
 
